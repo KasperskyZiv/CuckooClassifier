@@ -1,0 +1,7 @@
+#
+####### Cuckoo Classifier requirements.txt #######
+#
+numpy
+scipy
+sklearn
+#
